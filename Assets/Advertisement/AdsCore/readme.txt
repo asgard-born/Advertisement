@@ -1,8 +1,7 @@
 This is the advertising core for the custom implementations
 
-1. Import GooglePlayGamesPlugin-0.9.64 to your project from this folder
-2. ShowBannerAd, ShowInterstitialAd, ShowRewardedAd, HideBannerAd are methods for the implementation
-3. You can subscribe to the AdStatus
+1. Use ShowBannerAd, ShowInterstitialAd, ShowRewardedAd, HideBannerAd methods for the implementation
+2. You can subscribe to the AdStatus
 
 	LoadSuccess    -- when your ad has succesfully preload and ready for show
 	LoadFailed     -- when your ad has problems with loading from remote server
