@@ -1,0 +1,52 @@
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunarConsole", "LunarConsole.csproj", "{4F7238E0-9631-B9BB-0DBC-E572CB526452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdMob", "AdMob.csproj", "{722AF510-9772-2E0D-982A-EEA65D1D7C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{CA3011AD-F774-257D-D7BE-A493B0D9819E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapjoyAd", "TapjoyAd.csproj", "{C7920B59-00CD-C115-00D1-03867ABEE7F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdsCore", "AdsCore.csproj", "{D7AE7E04-3955-9CAC-3CF4-F1FA08E7041A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunarConsole.Editor", "LunarConsole.Editor.csproj", "{4F40D3FA-5F98-2F23-0D0E-221EC3A62140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F7238E0-9631-B9BB-0DBC-E572CB526452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7238E0-9631-B9BB-0DBC-E572CB526452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7238E0-9631-B9BB-0DBC-E572CB526452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7238E0-9631-B9BB-0DBC-E572CB526452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{722AF510-9772-2E0D-982A-EEA65D1D7C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722AF510-9772-2E0D-982A-EEA65D1D7C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722AF510-9772-2E0D-982A-EEA65D1D7C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722AF510-9772-2E0D-982A-EEA65D1D7C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA3011AD-F774-257D-D7BE-A493B0D9819E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3011AD-F774-257D-D7BE-A493B0D9819E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3011AD-F774-257D-D7BE-A493B0D9819E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3011AD-F774-257D-D7BE-A493B0D9819E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7920B59-00CD-C115-00D1-03867ABEE7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7920B59-00CD-C115-00D1-03867ABEE7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7920B59-00CD-C115-00D1-03867ABEE7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7920B59-00CD-C115-00D1-03867ABEE7F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7AE7E04-3955-9CAC-3CF4-F1FA08E7041A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7AE7E04-3955-9CAC-3CF4-F1FA08E7041A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7AE7E04-3955-9CAC-3CF4-F1FA08E7041A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7AE7E04-3955-9CAC-3CF4-F1FA08E7041A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F40D3FA-5F98-2F23-0D0E-221EC3A62140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F40D3FA-5F98-2F23-0D0E-221EC3A62140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F40D3FA-5F98-2F23-0D0E-221EC3A62140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F40D3FA-5F98-2F23-0D0E-221EC3A62140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

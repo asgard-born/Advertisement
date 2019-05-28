@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5c72dd3004f840dab93c0f2e1840dce4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - window: {fileID: 727690035259225671, guid: 75da70a39b7651542847b5e50fe9dfd5, type: 3}
+  - googleAdServiceSO: {fileID: 11400000, guid: e85e837f93ab1f34d81f601135622233,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

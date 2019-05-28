@@ -1,0 +1,12 @@
+{
+    "name": "com.kapustinvs.adscore",
+    "author": "Viktor Kapustin",
+    "displayName": "KapustinVS.AdsCore",
+    "description": "API Рекламы",
+    "unity": "2018.3",
+    "version": "1.0.6",
+    "keywords": [],
+    "dependencies": {
+        "com.neuecc.unirx": "6.2.2"
+    }
+}

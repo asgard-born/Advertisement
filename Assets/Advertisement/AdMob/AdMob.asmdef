@@ -1,0 +1,16 @@
+{
+    "name": "AdMob",
+    "references": [
+        "AdsCore",
+        "UniRx",
+        "LunarConsole"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

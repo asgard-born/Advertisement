@@ -1,0 +1,10 @@
+{
+    "name": "com.spacemadness.lunarconsolepro",
+    "author": "SPACEMADNESS",
+    "displayName": "Lunar Console Pro",
+    "description": "High-performance Unity iOS/Android console built with native platform UI.",
+    "unity": "2018.3",
+    "version": "1.5.9",
+    "keywords": [],
+    "dependencies": {}
+}
