@@ -9,7 +9,7 @@ namespace Advertisement.AdMob.Code.Services {
         public IReactiveProperty<AdStatus> Status => this.status;
 
         private IReactiveProperty<AdStatus> status = new ReactiveProperty<AdStatus>(
-            new AdStatus(AdType.Rewarded, RequestStatus.NotImplemented, "Not implemented"));
+            new AdStatus(AdType.Banner, RequestStatus.NotImplemented, "Not implemented"));
 
         private BannerView  bannerView;
         private IDisposable bannerSubscriber;
