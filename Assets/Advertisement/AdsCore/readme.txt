@@ -11,4 +11,4 @@ This is the advertising core for the custom implementations
 	ShowFailed     -- usually on this moment your add has already succesfully loaded
 	Rewarded       -- use this after success finish of rewarded video Ad
 	NotSupported   -- when current advertising doesn't support the current type of advertising
-	NotImplemented -- when default value when callback is not ready
+	NotImplemented -- when callback is not ready
